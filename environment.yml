@@ -19,3 +19,4 @@ dependencies:
    - dask
    - ffmpeg
    - notebook_intelligence
+   - jupyterlab-git
